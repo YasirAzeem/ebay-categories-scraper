@@ -1,0 +1,6 @@
+results.csv
+ebayCategories/spiders/sample.html
+proxies.txt
+*/__pycache__
+*/*/__pycache__
+.scrapy/

@@ -1,0 +1,5 @@
+scrapy
+bs4
+lxml
+scrapy-proxies
+scrapy-crawl-once
